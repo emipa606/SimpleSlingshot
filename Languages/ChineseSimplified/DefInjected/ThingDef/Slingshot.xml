@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Slingshot_Shot.label>石子</Slingshot_Shot.label>
+  <Slingshot.label>弹弓</Slingshot.label>
+  <Slingshot.description>一个简单的弹弓，制作起来需要一点技巧，不过也只是非常简单的技巧。</Slingshot.description>
+  <!--<mahjong.label>麻将</mahjong.label>-->
+  <!--<pebble.label>石子</pebble.label>-->
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Simple Slingshot (Continued)</name>
+  <packageId>Mlie.SimpleSlingshot</packageId>
+  <author>Crema di latte Dolce</author>
+  <url>https://github.com/emipa606/SimpleSlingshot</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Crema di latte Dolces mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=931731069
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/SimpleSlingshot][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+【NEWS】
+  I modified some parameters to make the data more realistic.
+Now it is about half DPS of a pistol. 
+
+
+
+			  
+【更新】
+ 我修改了一些参数使其更加贴近真实，现在它的伤害输出大约是手枪的一半。
+
+
+============================================================
+Nothing sepcial, it is just a simple weapon which is easy to use and make.
+			   
+			   
+The slingshot has the high firing rate and damage, and lower production costs. It is very suitable for mass production at the early stage of the game, and very effective for attacking the close enemies. 
+
+It can be made in ElectricSmithy, FueledSmithy, CraftingSpot. Only costs 15 Woodlogs.
+
+
+
+
+ 一种可以简单制作和使用的武器。
+
+弹弓拥有较高的攻速和伤害，并且很低的生产成本。 它非常适合在游戏早期批量生产，对于攻击近距离 的敌人十分有效。
+
+它可以使用 锻造台（电能）锻造台（燃料） 手工加工台制作。只需要消耗15个原木。
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+
