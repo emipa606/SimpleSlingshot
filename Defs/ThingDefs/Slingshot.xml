@@ -22,7 +22,7 @@
       <texPath>Things/Item/Slingshot</texPath>
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
-    <soundInteract>BowSmall</soundInteract>
+    <soundInteract>Bow_Small</soundInteract>
     <costList>
       <WoodLog>15</WoodLog>
     </costList>
@@ -52,7 +52,7 @@
         <defaultProjectile>Slingshot_Shot</defaultProjectile>
         <warmupTime>0.3</warmupTime>
         <range>15</range>
-        <soundCast>BowSmall</soundCast>
+        <soundCast>Bow_Small</soundCast>
       </li>
     </verbs>
   </ThingDef>
