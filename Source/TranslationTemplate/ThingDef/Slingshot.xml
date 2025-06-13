@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Slingshot -->
+  <Slingshot.label>Slingshot</Slingshot.label>
+  <!-- EN: A simple Slingshot, made with skill, but using only the most primitive technologies. -->
+  <Slingshot.description>A simple Slingshot, made with skill, but using only the most primitive technologies.</Slingshot.description>
+  <!-- EN: Slingshot -->
+  <Slingshot.verbs.Verb_Shoot.label>Slingshot</Slingshot.verbs.Verb_Shoot.label>
+  <!-- EN: pebble -->
+  <Slingshot_Shot.label>pebble</Slingshot_Shot.label>
+</LanguageData>
